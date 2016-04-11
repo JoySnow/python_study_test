@@ -1,0 +1,6 @@
+# for folder twisted/twisted-intro
+twistd.log*
+twistd.pid
+*.pyc
+_trial_temp
+twisted/twisted-intro/twisted/plugins/dropin.cache
