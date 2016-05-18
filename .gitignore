@@ -1,3 +1,7 @@
+*.log
+*.pyc
+
+
 # for folder twisted/twisted-intro
 twistd.log*
 twistd.pid
