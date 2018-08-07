@@ -1,5 +1,8 @@
 *.log
 *.pyc
+.pytest_cache
+.ipynb_checkpoints
+venv
 
 
 # for folder twisted/twisted-intro
