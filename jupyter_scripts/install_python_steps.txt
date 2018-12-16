@@ -1,0 +1,30 @@
+A.download the get-pip.py script:
+   11  curl -0 https://bootstrap/pypa.io/get-pip.py
+   12  curl -0 https://bootstrap.pypa.io/get-pip.py
+   13  ls
+B.run get-pip.py:
+   17  python get-pip.py 
+C. 18  pip install ipython
+
+   23  pip install Jyupter
+   24  pip search Jyupter
+   25  pip install Jyupter
+D. 34  yum install gcc
+   35  ls
+   36  pip install Jupyter
+E. 37  yum install gcc-c++
+
+   51  ll
+   52  ipython notebook
+F. 58  yum install python-devel
+G. 59  pip install Jupyter
+H. 60  ipython notebook
+
+
+
+I. 50  yum install git
+   61  ssh-keygen 
+   67  cat /root/.ssh/id_rsa.pub
+   73  git clone git@gitlab.cee.redhat.com:ngao/session.git
+   74  history 
+
